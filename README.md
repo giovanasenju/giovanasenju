@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @giovanasenju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-giovanasenju/giovanasenju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 . ⚡
+𝘨𝘪𝘰𝘷𝘢𝘯𝘢 🎥
+- ♪ Gᥲ᥉᥆ᥣιᥒᥱ - Hᥲᥣ᥉ᥱᥡ
+  
+![](https://media1.tenor.com/m/Thfg7bMikTQAAAAC/bakugo-smile-bakugou.gif)
